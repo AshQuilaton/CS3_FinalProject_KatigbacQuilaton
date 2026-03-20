@@ -77,3 +77,21 @@ Displayed on **all pages**:
 <li>Source citations for images and info
 </ul>
 
+# Final Modification Proposal
+
+/* design and narrative (purpose and how it is to be used) on how the data saved in the localStorage be updated and removed.
+ An updated wireframes on how #1 will be implemented on existing pages or new pages.*/
+
+## The purpose updating and removing saved data.
+The purpose of updating and removing the saved data would be for accidental typographical errors in the user's original input or that the user no longer has a reason to have that specific coordinate saved, with this, the user is able to change and modify the saved data to what they need and to their liking. 
+
+## The implementation of updating and removing saved data.
+The implementation of this will be on the Coordinates Saved Page. In the display of the already saved coordinates, there will be a button that says update which allows them to modify the inputted data.
+
+ Alongside the update button will be the delete button, which allows the user to delete the data they will not use anymore. To avoid accidental deletion of important coordinates, simply clicking the delete button will not delete automatically, but give a warning to confirm the deletion process. When the user confirms deletion, then that will be when the selected data will be removed. 
+
+ ## Updated Wireframes/Mockup
+ ### Coordinates Page - Saved Page
+![Updated Saved Coordinates Page]()
+
+![Confirm Deletion Warning]()
